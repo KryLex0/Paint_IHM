@@ -1,0 +1,2 @@
+compilation:			javac -d . *.java
+lancement programme echec:	java dessin.Fenetre
